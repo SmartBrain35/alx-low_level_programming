@@ -7,7 +7,7 @@
 
 int _strlen(char *s)
 {
-  if(*s == "\0")
+  if(*s == '\0')
   {
     return 0;
   }else
