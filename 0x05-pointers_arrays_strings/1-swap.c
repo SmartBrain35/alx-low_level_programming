@@ -5,7 +5,6 @@
  * @a: first parameter to be swaped
  * @b: second parameter to be swaped
  */
-
 void swap_int(int *a, int *b)
 {
   *a ^= *b;
