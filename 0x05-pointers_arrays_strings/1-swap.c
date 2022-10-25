@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
-*swap_int - Take two int variable
-and swap thier values
-*@a: first argumenet in swap_int
-*@b: second argument in swap_int
-*/
+ * swap_int - takes two parameters of types int and swap thier values
+ * @a: first parameter to be swaped
+ * @b: second parameter to be swaped
+ */
 
 void swap_int(int *a, int *b)
 {
